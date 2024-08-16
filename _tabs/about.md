@@ -3,33 +3,14 @@
 icon: fas fa-info-circle
 order: 1
 ---
+# About Me
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello! I'm Danial Jeelani, a passionate high school student with a keen interest in STEM fields. I am actively involved in various science and mathematics competitions and have a strong enthusiasm for exploring innovative solutions and contributing to meaningful projects.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - Danial Jeelani</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    
+## Background
 
-    <section class="content">
-        <div class="container">
-            <h1>About Me</h1>
-            <p>Hello! I'm Danial Jeelani, a passionate high school student with a keen interest in STEM fields...</p>
-            <!-- Add more content here -->
-        </div>
-    </section>
+I have participated in numerous science exhibitions and competitions, including [GAGAN-Inter School Science Exhibition](#), [IMMUTO-Inter School Science Fair](#), and [Medical & Science Exhibition (MASE)](#). I have also contributed to publications in the Indian Journal of Physics and am currently involved in hosting an online integration bee competition.
 
-    <footer class="footer">
-        <div class="footer-content">
-            <p>© 2024 Danial Jeelani. All rights reserved.</p>
-        </div>
-    </footer>
-</body>
-</html>
+## Contact
+
+Feel free to connect with me on my [GitHub](https://github.com/danjeel1), [LinkedIn](https://linkedin.com/in/danjeel1), or via [email](mailto:your.email@example.com).
