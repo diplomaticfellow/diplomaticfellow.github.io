@@ -68,6 +68,11 @@ In my role as Marketing Lead at a non-profit organization, I am responsible for 
 
 Selected as one of 10 high school students to participate in the highly anticipated SparX Genius competition, an annual TEDx-style event at my school. During 11th grade, I delivered a speech on "Orwellian Society: Reality or Hoax?" exploring the parallels between George Orwell's dystopian vision and contemporary society.
 
+### Mock Parliament
+
+Participated in a mock Indian Parliament event at my school, which simulated the legislative process of the Indian government. This experience involved role-playing as a member of parliament, debating on key issues, and working on legislative proposals. It enhanced my understanding of political processes and governance while developing my public speaking and negotiation skills.
+
+
 ### Science Competitions and Exhibitions
 
 **GAGAN Inter-School Science Exhibition, Global Indian School, Ajman:**
