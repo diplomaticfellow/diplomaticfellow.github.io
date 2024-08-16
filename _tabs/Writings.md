@@ -1,5 +1,5 @@
 ---
 title: Writings
-title: fas fa-book
+icon: fas fa-book
 order: 2
 ---
