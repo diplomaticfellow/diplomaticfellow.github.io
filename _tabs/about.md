@@ -20,7 +20,12 @@ In Mathematics, I am particularly passionate about Calculus and Differential Equ
 
 I am keenly interested in Computer Science, where I explore different programming languages, algorithms, and computational techniques. This field complements my studies in Physics and Mathematics, providing a solid foundation for problem-solving and analytical thinking.
 
-## You can find me on Discord with the username #diplomaticfellow
+# Contact Me
+
+Discord: #diplomaticfellow
+Email: physics16282@gmail.com
+Linkedin: https://linkedin.com/in/danialjeelani
+GitHub: https://github.com/diplomaticfellow
 
 ## Coursework
 
