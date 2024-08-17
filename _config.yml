@@ -39,6 +39,12 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/danialjeelani
+    
+social:
+  twitter: false
+
+feed:
+  enabled: false  # Disable the feed
 
 # Site Verification Settings
 webmaster_verifications:
