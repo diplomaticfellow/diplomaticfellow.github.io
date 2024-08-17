@@ -31,21 +31,13 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Hi there | Danial Jeelani
+  name: Hi There | Danial Jeelani
   email: physics16282@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/diplomaticfellow # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/danialjeelani
     
-social:
-  twitter: false
-
-feed:
-  enabled: false  # Disable the feed
-
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -102,7 +94,7 @@ avatar: "https://avatars.githubusercontent.com/u/158510199?v=4"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: '/files/icon.png'
+social_preview_image: 'dang/icon.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
