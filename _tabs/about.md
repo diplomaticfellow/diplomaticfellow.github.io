@@ -22,10 +22,13 @@ I am keenly interested in Computer Science, where I explore different programmin
 
 # Contact Me
 
-Discord: #diplomaticfellow
-Email: physics16282@gmail.com
-Linkedin: https://linkedin.com/in/danialjeelani
-GitHub: https://github.com/diplomaticfellow
+- Discord: #diplomaticfellow
+- Email: physics16282@gmail.com
+- Linkedin: https://linkedin.com/in/danialjeelani
+- GitHub: https://github.com/diplomaticfellow
+
+# Updates <i class="far fa-calendar-minus"></i>
+[The registration for Online Integration Bee has begun! Its the First year of this series, For more information please visit: https://linktr.ee/oibinfo]
 
 ## Coursework
 
@@ -50,6 +53,7 @@ GitHub: https://github.com/diplomaticfellow
 - Advanced Mechanics: Lagrangian Formalism and Its Applications
 - Quantum Mechanics I
 - Special Relativity
+
 
 ## Co-Curricular Activities
 
