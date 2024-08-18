@@ -17,3 +17,10 @@ order: 2
 [Danial Jeelani](https://diplomaticfellow.github.io/)
 
 [Download Paper](https://vistem.org/2024/08/17/the-dance-of-dynamics-lagrangian-mechanics/)
+
+## Can AI Truly Master Geometry and Beyond?
+
+### Author
+[Danial Jeelani](https://diplomaticfellow.github.io/)
+
+Download Paper (TBD)
