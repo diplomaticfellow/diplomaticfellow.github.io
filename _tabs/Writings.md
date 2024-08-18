@@ -23,4 +23,4 @@ order: 2
 ### Author
 [Danial Jeelani](https://diplomaticfellow.github.io/)
 
-Download Paper (TBD)
+[Download Paper](https://vistem.org/2024/08/18/can-ai-truly-master-geometry-and-beyond/)
