@@ -24,3 +24,4 @@ order: 2
 [Danial Jeelani](https://diplomaticfellow.github.io/)
 
 [Download Paper](https://vistem.org/2024/08/18/can-ai-truly-master-geometry-and-beyond/)
+
