@@ -55,15 +55,7 @@ I am keenly interested in Computer Science, where I explore different programmin
 - Special Relativity
 
 
-## Co-Curricular Activities
-
-### COP28 Delegate
-
-As a high school representative, I was selected to attend the COP28 conference in the UAE. This conference focused on climate change advocacy, providing a platform for high school students to voice concerns about increasing CO2 emissions in Dubai and explore potential solutions.
-
-### Beamline for Schools (BL4S) by CERN
-
-My team and I were among the top 30 teams globally, selected out of 3,000 participants in the Beamline for Schools competition organized by CERN. Our project, titled *"Experimental Test for the Role of Short-Range Correlations in the EMC Effect,"* focused on investigating the fundamental aspects of particle physics. Our work was recognized for its scientific innovation and contribution to understanding the EMC Effect.
+## Experience
 
 ### Lunar Community Staff Member
 
@@ -72,6 +64,20 @@ I serve as a Physics Staff member for the Lunar Community, a non-profit organiza
 ### Marketing Lead, [Non-Profit]
 
 In my role as Marketing Lead at a non-profit organization, I am responsible for driving the organization’s outreach and promotional efforts. My duties include managing social media campaigns, crafting and executing advertisement strategies, and building partnerships with like-minded organizations. I also direct outreach initiatives to increase community engagement and broaden our impact.
+
+### ViSTEM, Web Content Manager/Blog Writer
+
+Started a new position as a Content and Blog Writer at ViSTEM. Collaborating with the team to produce weekly articles on STEM topics, aiming to drive growth and increase branding for ViSTEM, and ultimately boost enrollment in our STEM-based courses.
+
+## Activities
+
+### COP28 Delegate
+
+As a high school representative, I was selected to attend the COP28 conference in the UAE. This conference focused on climate change advocacy, providing a platform for high school students to voice concerns about increasing CO2 emissions in Dubai and explore potential solutions.
+
+### Beamline for Schools (BL4S) by CERN
+
+My team and I were among the top 30 teams globally, selected out of 3,000 participants in the Beamline for Schools competition organized by CERN. Our project, titled *"Experimental Test for the Role of Short-Range Correlations in the EMC Effect,"* focused on investigating the fundamental aspects of particle physics. Our work was recognized for its scientific innovation and contribution to understanding the EMC Effect.
 
 ### SparX Genius Competition
 
