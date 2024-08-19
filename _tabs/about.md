@@ -57,6 +57,10 @@ I am keenly interested in Computer Science, where I explore different programmin
 
 ## Experience
 
+### Online Integration Bee, Founder
+
+Online Integration Bee, an exclusive event for high school students! We are excited to gather young and motivated mathematical minds from around the world for a unique and exhilarating competition. OIB is designed to celebrate the beauty and importance of calculus while fostering a spirit of friendly rivalry among students.
+
 ### Lunar Community Staff Member
 
 I serve as a Physics Staff member for the Lunar Community, a non-profit organization dedicated to hosting mathematics and physics competitions for high school students. This role promotes STEM education and fosters a community of young scholars.
