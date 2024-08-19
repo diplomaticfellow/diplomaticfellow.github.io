@@ -65,13 +65,19 @@ Online Integration Bee, an exclusive event for high school students! We are exci
 
 I serve as a Physics Staff member for the Lunar Community, a non-profit organization dedicated to hosting mathematics and physics competitions for high school students. This role promotes STEM education and fosters a community of young scholars.
 
-### Marketing Lead, [Non-Profit]
+### Fundraiser Assistant, STEMVERSE
 
-In my role as Marketing Lead at a non-profit organization, I am responsible for driving the organization’s outreach and promotional efforts. My duties include managing social media campaigns, crafting and executing advertisement strategies, and building partnerships with like-minded organizations. I also direct outreach initiatives to increase community engagement and broaden our impact.
+Collaborate with the team to identify and apply for grants and sponsorships to support STEMIVERSE's mission.
+Research potential funding sources, including corporate sponsors, foundations, and governmental organizations.
+Prepare grant proposals and sponsorship packages tailored to the needs of STEMIVERSE and the interests of potential donors.
 
 ### ViSTEM, Web Content Manager/Blog Writer
 
 Started a new position as a Content and Blog Writer at ViSTEM. Collaborating with the team to produce weekly articles on STEM topics, aiming to drive growth and increase branding for ViSTEM, and ultimately boost enrollment in our STEM-based courses.
+
+### Marketing Lead, [Non-Profit]
+
+In my role as Marketing Lead at a non-profit organization, I am responsible for driving the organization’s outreach and promotional efforts. My duties include managing social media campaigns, crafting and executing advertisement strategies, and building partnerships with like-minded organizations. I also direct outreach initiatives to increase community engagement and broaden our impact.
 
 ## Activities
 
