@@ -25,3 +25,11 @@ order: 2
 
 [Download Paper](https://vistem.org/2024/08/18/can-ai-truly-master-geometry-and-beyond/)
 
+## How the Biggest IT Outage Crashed 8.5 Million Devices
+
+### Author
+[Danial Jeelani](https://diplomaticfellow.github.io/)
+
+[Download Paper](https://vistem.org/2024/08/19/how-the-biggest-it-outage-crashed-8-5-million-devices/)
+
+
