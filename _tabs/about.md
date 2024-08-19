@@ -65,7 +65,7 @@ Online Integration Bee, an exclusive event for high school students! We are exci
 
 I serve as a Physics Staff member for the Lunar Community, a non-profit organization dedicated to hosting mathematics and physics competitions for high school students. This role promotes STEM education and fosters a community of young scholars.
 
-### Fundraiser Assistant, STEMVERSE
+### Fundraiser Assistant, STEMIVERSE
 
 Collaborate with the team to identify and apply for grants and sponsorships to support STEMIVERSE's mission.
 Research potential funding sources, including corporate sponsors, foundations, and governmental organizations.
