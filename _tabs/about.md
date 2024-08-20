@@ -61,15 +61,15 @@ I am keenly interested in Computer Science, where I explore different programmin
 
 Online Integration Bee, an exclusive event for high school students! We are excited to gather young and motivated mathematical minds from around the world for a unique and exhilarating competition. OIB is designed to celebrate the beauty and importance of calculus while fostering a spirit of friendly rivalry among students.
 
+### Fundraiser Director, STEMIVERSE
+
+Lead the team to identify and apply for grants and sponsorships to support STEMIVERSE's mission.
+Research potential funding sources, including corporate sponsors, foundations, and governmental organizations.
+Prepare grant proposals and sponsorship packages tailored to the needs of STEMIVERSE and the interests of potential donors.
+
 ### Lunar Community Staff Member
 
 I serve as a Physics Staff member for the Lunar Community, a non-profit organization dedicated to hosting mathematics and physics competitions for high school students. This role promotes STEM education and fosters a community of young scholars.
-
-### Fundraiser Assistant, STEMIVERSE
-
-Collaborate with the team to identify and apply for grants and sponsorships to support STEMIVERSE's mission.
-Research potential funding sources, including corporate sponsors, foundations, and governmental organizations.
-Prepare grant proposals and sponsorship packages tailored to the needs of STEMIVERSE and the interests of potential donors.
 
 ### ViSTEM, Web Content Manager/Blog Writer
 
