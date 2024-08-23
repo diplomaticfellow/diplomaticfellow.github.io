@@ -32,4 +32,12 @@ order: 2
 
 [Download Paper](https://vistem.org/2024/08/19/how-the-biggest-it-outage-crashed-8-5-million-devices/)
 
+## Chaos Theory; The Mathematics of Changes
+
+### Author
+[Danial Jeelani](https://diplomaticfellow.github.io/)
+
+[Download Paper](https://vistem.org/2024/08/23/chaos-theory-the-mathematics-of-changes/)
+
+
 
