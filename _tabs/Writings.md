@@ -11,6 +11,13 @@ order: 2
 
 [Download Paper](https://drive.google.com/file/d/1W8a8318RBHR2phgOG_D3uF-V69sq6BMx/view?usp=sharing)
 
+## The Cosmic Microwave Background: A Glimpse into the Early Universe
+
+### Author
+[Danial Jeelani](https://diplomaticfellow.github.io/)
+
+[Download Paper](https://vistem.org/2024/08/24/the-cosmic-microwave-background-a-glimpse-into-the-early-universe/)
+
 ## The Dance of Dynamics: Lagrangian Mechanics
 
 ### Author
