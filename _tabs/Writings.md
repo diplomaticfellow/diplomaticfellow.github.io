@@ -11,6 +11,13 @@ order: 2
 
 [Download Paper](https://drive.google.com/file/d/1W8a8318RBHR2phgOG_D3uF-V69sq6BMx/view?usp=sharing)
 
+## The Role of Neural Networks in Modern Machine Learning
+
+### Author
+[Danial Jeelani](https://diplomaticfellow.github.io/)
+
+[Download Paper](https://vistem.org/2024/08/26/the-role-of-neural-networks-in-modern-machine-learning/)
+
 ## The Cosmic Microwave Background: A Glimpse into the Early Universe
 
 ### Author
