@@ -11,6 +11,13 @@ order: 2
 
 [Download Paper](https://drive.google.com/file/d/1W8a8318RBHR2phgOG_D3uF-V69sq6BMx/view?usp=sharing)
 
+## But what is Quantum Computing?
+
+### Author
+[Danial Jeelani](https://diplomaticfellow.github.io/)
+
+[Download Paper](https://vistem.org/2024/08/27/but-what-is-quantum-computing/)
+
 ## The Role of Neural Networks in Modern Machine Learning
 
 ### Author
