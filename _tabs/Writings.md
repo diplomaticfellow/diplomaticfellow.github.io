@@ -11,6 +11,13 @@ order: 2
 
 [Download Paper](https://drive.google.com/file/d/1W8a8318RBHR2phgOG_D3uF-V69sq6BMx/view?usp=sharing)
 
+## How Will AI Transform Your Web Applications? Discover Streamlit and LangChain 
+
+### Author
+[Danial Jeelani](https://diplomaticfellow.github.io/)
+
+[Download Paper](https://vistem.org/2024/09/09/how-will-ai-transform-your-web-applications-discover-streamlit-and-langchain-with-vistem/)
+
 
 ## Brain Waves; How Neurons Process Language in Real Time?
 
