@@ -59,35 +59,50 @@ I am keenly interested in Computer Science, where I explore different programmin
 
 ### Online Integration Bee, Founder
 
-Online Integration Bee, an exclusive event for high school students! We are excited to gather young and motivated mathematical minds from around the world for a unique and exhilarating competition. OIB is designed to celebrate the beauty and importance of calculus while fostering a spirit of friendly rivalry among students.
+Online Integration Bee is a 501(c)(3) nonprofit event sponsored by Jane Street and AoPS exclusively for high school students, We are excited to gather young and motivated mathematical minds from around the world for a unique and exhilarating competition. OIB is designed to celebrate the beauty and importance of calculus while fostering a spirit of friendly rivalry among students.
 
-### Fundraiser Director, STEMIVERSE
+### Futracode, Chief Human Resources Officer
+
+As the CHRO at FutraCode, my responsibilities include:
+
+Database Management: Update and organize member databases weekly using Excel.
+Outreach and Communication: Ensure ongoing communication with organizations and sponsors.
+Backup Planning: Implement backup plans for critical files and set early deadlines.
+Performance Monitoring: Track and document inactive behaviors across departments and manage membership status.
+Reporting: Provide reports to the CEO on membership issues and ensure timely communication.
+Recruitment: Oversee new applications and recruitment efforts, actively participating in the hiring process.
+Organization: Create and manage files for outreach strategies and set weekly goals.
+Networking: Utilize a broad network for recruitment and outreach.
+Communication: Conduct interviews with strong English proficiency and manage form templates using Google Forms and Excel.
+Management: Demonstrate effective management skills to guide the HR team and support organizational goals.
+
+### STEMIVERSE, Fundraiser Director
 
 Lead the team to identify and apply for grants and sponsorships to support STEMIVERSE's mission.
 Research potential funding sources, including corporate sponsors, foundations, and governmental organizations.
 Prepare grant proposals and sponsorship packages tailored to the needs of STEMIVERSE and the interests of potential donors.
 
-### Lunar Community Staff Member
+### Lunar Contest Staff Member & Partner
 
-I serve as a Physics Staff member for the Lunar Community, a non-profit organization dedicated to hosting mathematics and physics competitions for high school students. This role promotes STEM education and fosters a community of young scholars.
+I serve as a Physics Staff member for the Lunar Community, a non-profit hosting math and physics competitions for high school students, official partner for Online Integration Bee.
 
 ### ViSTEM, Web Content Manager/Blog Writer
 
 Started a new position as a Content and Blog Writer at ViSTEM. Collaborating with the team to produce weekly articles on STEM topics, aiming to drive growth and increase branding for ViSTEM, and ultimately boost enrollment in our STEM-based courses.
 
-### Marketing Lead, [Non-Profit]
+### TechLit, Marketing Team Member
 
-In my role as Marketing Lead at a non-profit organization, I am responsible for driving the organization’s outreach and promotional efforts. My duties include managing social media campaigns, crafting and executing advertisement strategies, and building partnerships with like-minded organizations. I also direct outreach initiatives to increase community engagement and broaden our impact.
+Assist in developing and executing marketing campaigns, creating engaging content, and analyzing performance metrics to drive TechLit’s brand growth and success.
+
+### Marketing Manager, Finward
+
+In my role as Marketing Lead at a Finward (A non-profit organization) I am responsible for driving Finward's outreach and promotional efforts. My duties include managing social media campaigns, crafting and executing advertisement strategies, and building partnerships with like-minded organizations. I also direct outreach initiatives to increase community engagement and broaden our impact.
 
 ## Activities
 
 ### COP28 Delegate
 
 As a high school representative, I was selected to attend the COP28 conference in the UAE. This conference focused on climate change advocacy, providing a platform for high school students to voice concerns about increasing CO2 emissions in Dubai and explore potential solutions.
-
-### Beamline for Schools (BL4S) by CERN
-
-My team and I were among the top 30 teams globally, selected out of 3,000 participants in the Beamline for Schools competition organized by CERN. Our project, titled *"Experimental Test for the Role of Short-Range Correlations in the EMC Effect,"* focused on investigating the fundamental aspects of particle physics. Our work was recognized for its scientific innovation and contribution to understanding the EMC Effect.
 
 ### SparX Genius Competition
 
@@ -99,6 +114,14 @@ Participated in a mock Indian Parliament event at my school, which simulated the
 
 
 ### Science Competitions and Exhibitions
+
+### Beamline for Schools (BL4S) by CERN
+
+My team and I were among the top 30 teams globally, selected out of 3,000 participants in the Beamline for Schools competition organized by CERN. Our project, titled *"Experimental Test for the Role of Short-Range Correlations in the EMC Effect,"* focused on investigating the fundamental aspects of particle physics. Our work was recognized for its scientific innovation and contribution to understanding the EMC Effect.
+
+### Nasa Space Apps Challenge Hackathon 2024
+
+[In Process]
 
 **GAGAN Inter-School Science Exhibition, Global Indian School, Ajman:**
 Represented my school in a competition focused on space exploration. Our team presented a model and research on the potential of wormholes, proposing innovative solutions for future space travel.
@@ -112,3 +135,5 @@ Represented my school at the largest science exhibition in the country, with ove
 ### Social Work Volunteer
 
 Volunteered during school break times to supervise and ensure that younger students were behaving appropriately. This role involved maintaining a safe and respectful environment, helping resolve conflicts, and setting a positive example for the school community.
+
+Participated as a Volunteer in the National Recycling Program (NRP) organized by Emirates Environmental Group (EEG), Collected Plastics and Aluminum Cans 
