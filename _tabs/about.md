@@ -10,7 +10,7 @@ Hello, my name is **Danial Jeelani**. I’ll be graduating high school next spri
 
 ## Physics
 
-I have been studying Physics for International Olympiads since 2023, and I will be participating in the UAE Physics Olympiad (UAEPhO) this fall. My favorite topic is Quantum Mechanics, and I am considering writing articles and blog posts on this subject. You can find it in the Writings tab of this site.
+I have been studying Physics for International Olympiads since 2023, and I will be participating in the UAE Physics Olympiad (UAEPhO) this fall. My favorite topic is Quantum Mechanics, and I will be considering to writing articles and blog posts regarding this subject. You can find it on the Writings tab of this site.
 
 ## Mathematics
 
