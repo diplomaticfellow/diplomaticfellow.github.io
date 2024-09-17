@@ -6,6 +6,13 @@ order: 4
 
 I Usually Share my Personal Notes Here: 
 
+## Grade 12th Physics Derivation
+
+### Author
+[Danial Jeelani](https://diplomaticfellow.github.io/)
+
+[Download Paper](https://drive.google.com/file/d/1hfmvuhMXH5AFvYIvKU7CWDnqwU0lp2v-/view)
+
 ## Integration Formulas
 
 ### Author
