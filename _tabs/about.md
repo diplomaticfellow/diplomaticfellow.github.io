@@ -63,18 +63,15 @@ Online Integration Bee is a 501(c)(3) nonprofit event sponsored by Jane Street a
 
 ### Futracode, Chief Human Resources Officer
 
-As the CHRO at FutraCode, my responsibilities include:
+As CHRO at FutraCode, I manage member databases, communication with organizations, backup plans, and performance monitoring across departments. I oversee recruitment, create outreach strategies, and provide reports to the CEO. Additionally, I leverage my network for recruitment, conduct interviews, and effectively guide the HR team.
 
-Database Management: Update and organize member databases weekly using Excel.
-Outreach and Communication: Ensure ongoing communication with organizations and sponsors.
-Backup Planning: Implement backup plans for critical files and set early deadlines.
-Performance Monitoring: Track and document inactive behaviors across departments and manage membership status.
-Reporting: Provide reports to the CEO on membership issues and ensure timely communication.
-Recruitment: Oversee new applications and recruitment efforts, actively participating in the hiring process.
-Organization: Create and manage files for outreach strategies and set weekly goals.
-Networking: Utilize a broad network for recruitment and outreach.
-Communication: Conduct interviews with strong English proficiency and manage form templates using Google Forms and Excel.
-Management: Demonstrate effective management skills to guide the HR team and support organizational goals.
+### BioBuzz Academy, Chief Financial Officer
+
+I manage finances, aligning the budget with program needs and ensuring compliance with non-profit regulations. I lead fundraising initiatives, oversee audits, and manage financial operations to ensure long-term sustainability. With strong analytical skills, I develop financial reports and forecasts while engaging with donors and sponsors.
+
+### Finward, Outreach Officer
+
+In my role as Marketing Lead at a Finward (A non-profit organization) I am responsible for driving Finward's outreach and promotional efforts. My duties include managing social media campaigns, crafting and executing advertisement strategies, and building partnerships with like-minded organizations. I also direct outreach initiatives to increase community engagement and broaden our impact.
 
 ### STEMIVERSE, Fundraiser Director
 
@@ -82,21 +79,17 @@ Lead the team to identify and apply for grants and sponsorships to support STEMI
 Research potential funding sources, including corporate sponsors, foundations, and governmental organizations.
 Prepare grant proposals and sponsorship packages tailored to the needs of STEMIVERSE and the interests of potential donors.
 
-### Lunar Contest Staff Member & Partner
-
-I serve as a Physics Staff member for the Lunar Community, a non-profit hosting math and physics competitions for high school students, official partner for Online Integration Bee.
-
 ### ViSTEM, Web Content Manager/Blog Writer
 
 Started a new position as a Content and Blog Writer at ViSTEM. Collaborating with the team to produce weekly articles on STEM topics, aiming to drive growth and increase branding for ViSTEM, and ultimately boost enrollment in our STEM-based courses.
 
+### Lunar Contest Staff Member & Partner
+
+I serve as a Physics Staff member for the Lunar Community, a non-profit hosting math and physics competitions for high school students, official partner for Online Integration Bee.
+
 ### TechLit, Marketing Team Member
 
 Assist in developing and executing marketing campaigns, creating engaging content, and analyzing performance metrics to drive TechLit’s brand growth and success.
-
-### Marketing Manager, Finward
-
-In my role as Marketing Lead at a Finward (A non-profit organization) I am responsible for driving Finward's outreach and promotional efforts. My duties include managing social media campaigns, crafting and executing advertisement strategies, and building partnerships with like-minded organizations. I also direct outreach initiatives to increase community engagement and broaden our impact.
 
 ## Activities
 
@@ -120,6 +113,13 @@ Participated in a mock Indian Parliament event at my school, which simulated the
 My team and I were among the top 30 teams globally, selected out of 3,000 participants in the Beamline for Schools competition organized by CERN. Our project, titled *"Experimental Test for the Role of Short-Range Correlations in the EMC Effect,"* focused on investigating the fundamental aspects of particle physics. Our work was recognized for its scientific innovation and contribution to understanding the EMC Effect.
 
 ### Nasa Space Apps Challenge Hackathon 2024
+
+Participated in the NASA Space Apps Challenge Hackathon 2024, collaborating on innovative solutions to realworld space and Earth science challenges.
+• Tools Used: Python, CSS, HTML, MySQLite
+
+### International Astronomical Search Collaboration (IASC)
+
+I recently participated in the International Astronomical Search Collaboration (IASC), a fantastic citizen science program. During the month-long asteroid search campaign, I examined astronomical data and helped identify new asteroids. 
 
 [In Process]
 
