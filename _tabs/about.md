@@ -121,8 +121,6 @@ Participated in the NASA Space Apps Challenge Hackathon 2024, collaborating on i
 
 I recently participated in the International Astronomical Search Collaboration (IASC), a fantastic citizen science program. During the month-long asteroid search campaign, I examined astronomical data and helped identify new asteroids. 
 
-[In Process]
-
 **GAGAN Inter-School Science Exhibition, Global Indian School, Ajman:**
 Represented my school in a competition focused on space exploration. Our team presented a model and research on the potential of wormholes, proposing innovative solutions for future space travel.
 
