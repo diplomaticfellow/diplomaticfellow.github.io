@@ -6,19 +6,19 @@ order: 1
 
 # Danial Jeelani
 
-Hello, my name is **Danial Jeelani**. I’ll be graduating high school next spring. My interests mainly lie in Physics, Computer Science, and Mathematics. I am from the UAE.
+Hello, I'm Danial Jeelani, and I'll be graduating high school next month. I have a passion for studying and exploring the sciences as a hobby!
 
 ## Physics
 
-I have been studying Physics for International Olympiads since 2023, and I will be participating in the UAE Physics Olympiad (UAEPhO) this fall. My favorite topic is Quantum Mechanics, and I will be considering to writing articles and blog posts regarding this subject. You can find it on the Writings tab of this site.
+I’ve been studying Physics for the International Olympiads since 2023 and participated in the UAE Physics Olympiad (UAEPhO) 2024. My favorite subject is Quantum Mechanics, and I plan to write articles and blog posts about it. You can find them in the Writings section of this site.
 
 ## Mathematics
 
-In Mathematics, I am particularly passionate about Calculus and Differential Equations. These areas fascinate me due to their wide range of applications and the deep insights they provide into various phenomena. I have been actively studying these topics to further enhance my understanding and skills.
+In Mathematics, I’m especially passionate about Calculus and Differential Equations. I find these areas fascinating because of their broad applications and the deep insights they offer into different phenomena. I’ve been dedicating time to studying them further to strengthen my understanding and skills.
 
 ## Computer Science
 
-I am keenly interested in Computer Science, where I explore different programming languages, algorithms, and computational techniques. This field complements my studies in Physics and Mathematics, providing a solid foundation for problem-solving and analytical thinking.
+I mostly like algorithms because they have a strong mathematical foundation. Right now, I’m focusing on learning competitive programming to sharpen my skills.
 
 # Contact Me
 
@@ -39,7 +39,7 @@ I am keenly interested in Computer Science, where I explore different programmin
 - Mathematics
 - Computer Science
 - English Literature
-- Multimedia
+- Multi-media
 
 ### Self-Studied Courses
 
@@ -48,12 +48,6 @@ I am keenly interested in Computer Science, where I explore different programmin
 - Multivariable Calculus
 - Ordinary Differential Equations
 - Linear Algebra
-
-**Physics:**
-- Advanced Mechanics: Lagrangian Formalism and Its Applications
-- Quantum Mechanics I
-- Special Relativity
-
 
 ## Experience
 
@@ -69,15 +63,10 @@ As CHRO at FutraCode, I manage member databases, communication with organization
 
 I manage finances, aligning the budget with program needs and ensuring compliance with non-profit regulations. I lead fundraising initiatives, oversee audits, and manage financial operations to ensure long-term sustainability. With strong analytical skills, I develop financial reports and forecasts while engaging with donors and sponsors.
 
-### Finward, Outreach Officer
-
-In my role as Marketing Lead at a Finward (A non-profit organization) I am responsible for driving Finward's outreach and promotional efforts. My duties include managing social media campaigns, crafting and executing advertisement strategies, and building partnerships with like-minded organizations. I also direct outreach initiatives to increase community engagement and broaden our impact.
-
 ### STEMIVERSE, Fundraiser Director
 
-Lead the team to identify and apply for grants and sponsorships to support STEMIVERSE's mission.
-Research potential funding sources, including corporate sponsors, foundations, and governmental organizations.
-Prepare grant proposals and sponsorship packages tailored to the needs of STEMIVERSE and the interests of potential donors.
+Collaborate with the team to identify and apply for grants and sponsorships to support STEMIVERSE's mission.
+Research potential funding sources, including corporate sponsors, foundations, and governmental organizations
 
 ### ViSTEM, Web Content Manager/Blog Writer
 
@@ -132,6 +121,6 @@ Represented my school at the largest science exhibition in the country, with ove
 
 ### Social Work Volunteer
 
-Volunteered during school break times to supervise and ensure that younger students were behaving appropriately. This role involved maintaining a safe and respectful environment, helping resolve conflicts, and setting a positive example for the school community.
+Volunteered during school break times to supervise and ensure that younger students were behaving appropriately.
 
 Participated as a Volunteer in the National Recycling Program (NRP) organized by Emirates Environmental Group (EEG), Collected Plastics and Aluminum Cans 
