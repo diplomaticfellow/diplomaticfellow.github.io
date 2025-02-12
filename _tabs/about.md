@@ -110,13 +110,16 @@ Participated in the NASA Space Apps Challenge Hackathon 2024, collaborating on i
 
 I recently participated in the International Astronomical Search Collaboration (IASC), a fantastic citizen science program. During the month-long asteroid search campaign, I examined astronomical data and helped identify new asteroids. 
 
-**GAGAN Inter-School Science Exhibition, Global Indian School, Ajman:**
+### GAGAN Inter-School Science Exhibition, Global Indian School, Ajman:
+
 Represented my school in a competition focused on space exploration. Our team presented a model and research on the potential of wormholes, proposing innovative solutions for future space travel.
 
-**IMMUTO Inter-School Science Fair, India International School, Sharjah:**
+### IMMUTO Inter-School Science Fair, India International School, Sharjah:
+
 At this event, my team and I developed strategies for water waste management and oceanic waste cleanup. We presented practical solutions to address these environmental challenges, showcasing our research and proposed methods.
 
-**Medical & Science Exhibition (MASE), Gulf Medical University:**
+### Medical & Science Exhibition (MASE), Gulf Medical University:
+
 Represented my school at the largest science exhibition in the country, with over 3,000 high school participants. Our project involved the development of nanobots designed to target cancer cells with chemotherapy drugs. We created a functional model of the nanobots and developed a companion app for monitoring vitals and connecting patients with healthcare providers.
 
 ### Social Work Volunteer
