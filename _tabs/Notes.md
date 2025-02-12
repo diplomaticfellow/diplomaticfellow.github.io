@@ -4,14 +4,11 @@ icon: fa fa-book
 order: 4
 ---
 
-I Usually Share my Personal Notes Here: 
+A collection of personal notes, archives, resources, etc:
 
-## Grade 12th Physics Derivation
+## Physics Derivations
 
-### Author
-[Danial Jeelani](https://diplomaticfellow.github.io/)
-
-[Download Paper](https://drive.google.com/file/d/1hfmvuhMXH5AFvYIvKU7CWDnqwU0lp2v-/view)
+[Download Paper](/assets/Board_Physics.pdf)
 
 ## Integration Formulas
 
