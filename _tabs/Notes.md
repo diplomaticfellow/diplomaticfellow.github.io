@@ -8,7 +8,7 @@ A collection of personal notes, archives, resources, etc:
 
 ## Physics Derivations
 
-[Download Paper](/assets/Board_Physics.pdf)
+[Download Paper](assets/Board_Physics.pdf)
 
 ## Integration Formulas
 
