@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+    :root {
+        /* Bauhaus Dark Theme Palette */
+        --background: 0 0% 15%;
+        --foreground: 0 0% 95%;
+
+        --card: 0 0% 18%;
+        --card-foreground: 0 0% 95%;
+
+        --primary: 8 100% 60%;
+        --primary-foreground: 0 0% 15%;
+
+        --secondary: 0 0% 25%;
+        --secondary-foreground: 0 0% 95%;
+
+        --muted: 0 0% 20%;
+        --muted-foreground: 0 0% 65%;
+
+        --accent: 8 100% 60%;
+        --accent-foreground: 0 0% 15%;
+
+        --destructive: 0 84% 60%;
+        --destructive-foreground: 0 0% 98%;
+
+        --border: 0 0% 25%;
+        --input: 0 0% 25%;
+        --ring: 8 100% 60%;
+
+        --radius: 0.25rem;
+
+        /* Light theme for contact section */
+        --light-bg: 0 0% 98%;
+        --light-fg: 0 0% 15%;
+
+        /* Transitions */
+        --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+}
+
+@layer base {
+    * {
+        @apply border-border;
+    }
+
+    body {
+        @apply bg-background text-foreground;
+    }
+}
+
+/* Mobile-specific improvements */
+@media (max-width: 767px) {
+    /* Prevent horizontal scroll on mobile */
+    body {
+        overflow-x: hidden;
+    }
+    
+    /* Improve touch targets */
+    a, button {
+        min-height: 44px;
+        min-width: 44px;
+    }
+    
+    /* Better text rendering on mobile */
+    h1, h2, h3 {
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+    }
+    
+    /* Prevent zoom on input focus */
+    input, select, textarea {
+        font-size: 16px;
+    }
+}
