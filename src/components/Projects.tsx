@@ -28,12 +28,12 @@ const projects = [
     color: "from-secondary to-accent",
   },
   {
-    title: "Advanced Science Demonstrations",
+    title: "Advanced Physics Demonstrations",
     category: "Physical Models & Prototypes",
     year: "2023 – 2024",
     description: "Constructed physical 3D models demonstrating wormhole physics and spacetime curvature concepts. Designed theoretical nanobot medical framework with web application prototype.",
     tags: ["3D Modeling", "Physics", "Web Development"],
-    link: "/nanobots.jpg",
+    image: "/nanobots.jpg",
     icon: Award,
     color: "from-accent to-primary",
   },
@@ -76,15 +76,15 @@ const Projects = () => {
                       {project.category} • {project.year}
                     </span>
                   </div>
-                  
+
                   <h3 className="font-serif text-4xl text-foreground mb-4 group-hover:text-primary transition-colors duration-300">
                     {project.title}
                   </h3>
-                  
+
                   <p className="font-body text-base text-foreground/70 leading-relaxed mb-6">
                     {project.description}
                   </p>
-                  
+
                   <div className="flex flex-wrap gap-2">
                     {project.tags.map((tag) => (
                       <span
@@ -96,12 +96,12 @@ const Projects = () => {
                     ))}
                   </div>
                 </div>
-                
+
                 <div className="lg:col-span-4">
                   <div className="aspect-square bg-muted rounded-sm relative overflow-hidden">
                     {project.image ? (
-                      <img 
-                        src={project.image} 
+                      <img
+                        src={project.image}
                         alt={project.title}
                         className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                       />
@@ -113,7 +113,7 @@ const Projects = () => {
                       </div>
                     )}
                   </div>
-                  
+
                   {project.link && (
                     <a
                       href={project.link}
@@ -127,7 +127,7 @@ const Projects = () => {
                   )}
                 </div>
               </div>
-              
+
               {index < projects.length - 1 && (
                 <div className="mt-16 h-px bg-border"></div>
               )}
@@ -140,5 +140,3 @@ const Projects = () => {
 };
 
 export default Projects;
-
-
