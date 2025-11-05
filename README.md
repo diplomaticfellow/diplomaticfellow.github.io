@@ -14,7 +14,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/diplomaticfellow/diplomaticfellow.github.io.git
    cd portfolio
    ```
 
@@ -36,4 +36,5 @@
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
 
