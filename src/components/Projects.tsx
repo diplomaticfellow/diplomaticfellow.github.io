@@ -33,7 +33,7 @@ const projects = [
     year: "2023 – 2024",
     description: "Constructed physical 3D models demonstrating wormhole physics and spacetime curvature concepts. Designed theoretical nanobot medical framework with web application prototype.",
     tags: ["3D Modeling", "Physics", "Web Development"],
-    link: "/nanobots.jpg";
+    link: "/nanobots.jpg",
     icon: Award,
     color: "from-accent to-primary",
   },
@@ -140,4 +140,5 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
